@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thegeekmarket
+- 👀 I’m interested in kitesurfing, electronics and business.
+- 🌱 I’m currently learning to live
+- 💞️ I’m looking to collaborate on with Odoo devs.
+- 📫 How to reach me roberto.lopez@thegeekmarket.es
